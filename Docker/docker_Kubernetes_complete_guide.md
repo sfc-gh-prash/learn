@@ -25,5 +25,21 @@ docker create hello-world
 docker start -a 
 
  removing containers 
- 
+
  docker system prune
+
+ docker create busybox echo hello 
+
+ docker start ______
+
+docker logs _____(containers id ) 
+
+
+docker run busybox ping google.com 
+
+##### Stopping the docker 
+
+
+
+
+
